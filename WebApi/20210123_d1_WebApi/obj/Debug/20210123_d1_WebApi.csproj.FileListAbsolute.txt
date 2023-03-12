@@ -1,0 +1,138 @@
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\20210123_d1_WebApi.dll.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\20210123_d1_WebApi.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\20210123_d1_WebApi.pdb
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csc.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csc.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csc.rsp
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csi.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csi.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csi.rsp
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.AppContext.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Console.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.Compression.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Claims.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.ValueTuple.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\vbc.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\vbc.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\vbc.rsp
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\VBCSCompiler.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\EntityFramework.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Newtonsoft.Json.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Net.Http.Formatting.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.WebHost.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\EntityFramework.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Newtonsoft.Json.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Net.Http.Formatting.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.WebHost.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.csprojAssemblyReference.cache
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.csproj.CoreCompileInputs.cache
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.csproj.CopyComplete
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.pdb
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Cors.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.Cors.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.Cors.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\20210123_d1_WebApi.dll.config
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\20210123_d1_WebApi.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\20210123_d1_WebApi.pdb
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csc.exe
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csc.exe.config
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csc.rsp
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csi.exe
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csi.exe.config
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\csi.rsp
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.AppContext.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Console.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.Compression.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Claims.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.ValueTuple.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\vbc.exe
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\vbc.exe.config
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\vbc.rsp
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\EntityFramework.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Newtonsoft.Json.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Net.Http.Formatting.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Cors.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.Cors.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.WebHost.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\EntityFramework.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Net.Http.Formatting.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.Cors.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Newtonsoft.Json.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\System.Web.Http.WebHost.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.csproj.AssemblyReference.cache
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.csproj.CoreCompileInputs.cache
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.csproj.CopyComplete
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.dll
+D:\Ahmet Kırmızıgül-Ders Notları\Aytaç Hoca-MVC Web Api\7-WebApiProject\20210123_d1_WebApi\20210123_d1_WebApi\obj\Debug\20210123_d1_WebApi.pdb

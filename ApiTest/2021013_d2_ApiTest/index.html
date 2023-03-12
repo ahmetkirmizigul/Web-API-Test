@@ -1,0 +1,98 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <title>Hello, world!</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Ürünler Listesi</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Ürün Adı</td>
+                    <td>Kategori</td>
+                    <td>Tedarikçi</td>
+                    <td>Fiyat</td>
+                    <td>Stok</td>
+                    <td>İşlemler</td>
+                </tr>
+            </thead>
+            <tbody id="urunList"></tbody>
+        </table>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            UrunlariListele();
+
+            $(document).on('click', '.delete', function () {
+                //console.log($(this).data("id"));
+                $.ajax({
+                    url: 'http://localhost:64047/api/Products/Sil',
+                    data: 'id=' + $(this).data("id"),
+                    type: 'GET',
+                    dataType: 'json',
+                    success: function (data) {
+                        alert(data.Message);
+                        UrunlariListele();
+                    },
+                });
+            });
+
+
+            function UrunlariListele() {
+
+                $.ajax({
+                    url: 'http://localhost:64047/api/Products/List',
+                    //data: data,
+                    dataType: 'json',
+                    success: function (data) {
+                        var txt = "";
+                        $.each(data,
+                            function (index, item) {
+                                txt += "<tr>" +
+                                    "<td>" +
+                                    item.Id +
+                                    "</td>" +
+                                    "<td>" +
+                                    item.Ad +
+                                    "</td>" +
+                                    "<td>" +
+                                    item.Kategori +
+                                    "</td>" +
+                                    "<td>" +
+                                    item.Tedarikci +
+                                    "</td>" +
+                                    "<td>" +
+                                    parseFloat(item.Fiyat).toFixed(2) +
+                                    "</td>" +
+                                    "<td>" +
+                                    item.Stok +
+                                    "</td>" +
+                                    "<td>" +
+                                    "<a href='Duzenle.html?id=" + item.Id + "' class='btn btn-warning'>Düzenle</a>" +
+                                    "<button class='btn btn-danger delete' data-id='" + item.Id + "'>Sil</button>" +
+                                    "</td>" +
+                                    "</tr>"
+                            });
+                        //$('#urunList').append(txt);  Belirtilen elementin içerisindeki veriler sabit olarak kalır. Yeni verileri üzerine ekler.
+                        $('#urunList').html(txt);  // Belirtilen element üzerindeki verileri siler yerni verileri listeler.
+                    },
+                });
+            }
+        });
+
+    </script>
+</body>
+</html>
